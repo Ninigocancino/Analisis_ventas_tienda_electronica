@@ -1,0 +1,8 @@
+# Ignorar archivos pycache generados por Python
+__pycache__/
+
+# Ignorar archivos de configuración local
+.env
+
+# Ignorar archivos de registro
+logs/
